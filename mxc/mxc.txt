@@ -1,0 +1,2 @@
+https://www.mexc.com/open/api/v2/market/symbols
+https://www.mexc.com/open/api/v2/market/kline?interval=1d&limit=270&symbol=BTC_USDT

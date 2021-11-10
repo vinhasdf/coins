@@ -1,0 +1,5 @@
+/* get price */
+https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=14
+
+/* get all usdt pair */
+    
